@@ -10,10 +10,13 @@ It is similar with the official visual studio extension: [ASP.NET Zero Power Too
 
 ## Usage
 
-1. new a YourEntity.json file in the `aspnet-core\AspNetZeroRadTool` folder
-2. using code snippets to edit YourEntity.json file
-3. run the command `Run ASP.NET Zero Rad Tool` from explore context menu
+1. purchase [**ASP.NET Zero**](https://aspnetzero.com/) and get a license code
+2. setup your config in `config.json`. **ProjectType** and **LicenseCode** is required
+3. new a YourEntity.json file in the `aspnet-core\AspNetZeroRadTool` folder
+4. using code snippets to edit YourEntity.json file
+5. run the command `Run ASP.NET Zero Rad Tool` from explore context menu
 
+Note: Asp.Net Zero rad tool requires .NET Core 2.2 Runtime.
 
 ## Available Snippets
 
@@ -24,6 +27,6 @@ It is similar with the official visual studio extension: [ASP.NET Zero Power Too
 
 ## Fields of entity json
 
-please refs aspnet zero document [https://docs.aspnetzero.com/documents/zero/latest/Development-Guide-Rad-Tool-Mac-Linux](https://docs.aspnetzero.com/documents/zero/latest/Development-Guide-Rad-Tool-Mac-Linux)
+please refs aspnet zero document [https://docs.aspnetzero.com/en/aspnet-core-angular/latest/Development-Guide-Rad-Tool-Mac-Linux](https://docs.aspnetzero.com/en/aspnet-core-angular/latest/Development-Guide-Rad-Tool-Mac-Linux)
 
 **Enjoy!**
